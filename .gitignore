@@ -1,0 +1,13 @@
+# Project exclude paths
+/api-boss/target/
+/api-driver/target/
+/api-passenger/target/
+/intelnal-common/target/
+/service-driver-user/target/
+/service-map/target/
+/service-order/target/
+/service-passenger-user/target/
+/service-pay/target/
+/service-price/target/
+/service-sse-push/target/
+/target/

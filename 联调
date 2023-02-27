@@ -1,0 +1,85 @@
+整体联调：
+
+乘客端：
+id:1625116469480779778
+手机号：13138293724
+验证码： 731720
+accesstoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzMTM4MjkzNzI0IiwiaWRlbnRpdHkiOiIxIiwidG9rZW5UaW1lIjoiTW9uIEZlYiAxMyAyMDo0NzowMSBDU1QgMjAyMyIsInRva2VuVHlwZSI6ImFjY2Vzc1Rva2VuIn0.cLIzezpYIBr2mJO7r_3M47X3d0wgSrZsUsXrGaICBWU
+预估价格的经纬度：
+起点：116.322056,39.89491
+终点：116.310133,39.924142
+
+
+司机端：
+手机号：13138293722
+验证码：576467
+accesstoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzMTM4MjkzNzIyIiwiaWRlbnRpdHkiOiIyIiwidG9rZW5UaW1lIjoiTW9uIEZlYiAxMyAyMToxMDoyMCBDU1QgMjAyMyIsInRva2VuVHlwZSI6ImFjY2Vzc1Rva2VuIn0.EBJI154GcDdBSJZf7h1aLEnWJLWblqP3ZRHeWMHqjDs
+id:1625119788693557249
+
+订单号：
+1625328281903972354
+
+order_time:2023-02-14 11:00:43
+depart_time:2023-02-14 11:10:43
+receive_order_time:2023-02-14 11:02:43
+to_pick_up_passenger_time:2023-02-14 11:03:43
+driver_arrive_departure_time:2023-02-14 11:09:52
+
+导航点：
+
+
+
+
+
+
+
+
+
+
+
+{
+    "carId": 1625120910816677890,
+    "points":[
+        {
+            "location":"116.322056,39.89491",
+            "locatetime":1676345103578
+        },
+        {
+            "location":"116.319481,39.896556",
+            "locatetime":1676345103578
+        },
+        {
+            "location":"116.318794,39.89682",
+            "locatetime":1676345103578
+        },{
+            "location":"116.322056,39.89491",
+            "locatetime":1676345103578
+        },{
+            "location":"116.309696,39.89682",
+            "locatetime":1676345103578
+        },{
+            "location":"116.309696,39.89682",
+            "locatetime":1676345103578
+        },{
+            "location":"116.320683,39.901956",
+            "locatetime":1676345103578
+        },{
+            "location":"116.320683,39.90696",
+            "locatetime":1676345103578
+        },{
+            "location":"116.324974,39.915123",
+            "locatetime":1676345103578
+        },{
+            "location":"116.325146,39.924076",
+            "locatetime":1676345103578
+        },{
+            "location":"116.319653,39.923286",
+            "locatetime":1676345103578
+        },{
+            "location":"116.310898,39.922891",
+            "locatetime":1676345103578
+        }
+    ]
+}
+
+

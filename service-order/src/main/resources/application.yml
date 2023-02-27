@@ -1,0 +1,39 @@
+
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root
+    url: jdbc:mysql://localhost:3306/service-order?characterEncoding=utf-8&serverTimezone=GMT%2B8
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+
+  application:
+    name: service-order
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    database: 0
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+logging:
+  level:
+    com.baomidou: debug
+
+---
+spring:
+  profiles: 8007
+server:
+  port: 8007
+---
+spring:
+  profiles: 8008
+server:
+  port: 8008
