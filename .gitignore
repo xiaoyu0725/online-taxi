@@ -1,0 +1,14 @@
+# Project exclude paths
+/api-boss/target/
+/api-driver/target/
+/api-passenger/target/
+/internal-common/target/
+/serice-map/target/
+/service-driver-user/target/
+/service-order/target/
+/service-passenger-user/target/
+/service-pay/target/
+/service-price/target/
+/service-sse-push/target/
+/前端代码/乘客端源码20230221/node_modules/
+/前端代码/司机端源码20230221/node_modules/
